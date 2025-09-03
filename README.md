@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Anthony Costa
 
 🎓 I'm a Computer Science major passionate about building meaningful and cool solutions to real-world problems through software.  
-💻 I enjoy working with Java, JavaFX, MySQL, and diving into backend development and data structures.
+💻 I enjoy working with Java, JavaFX, MySQL, HTML/PHP, and diving into backend development and data structures.
 
 ---
 
@@ -18,8 +18,8 @@ Check out my personal website to learn more about me and see more of my work:
 ---
 
 ### 🔧 Skills
-- Java | JavaFX | SQL | FXML | Python | Data Structures | GUI Design  
-- 💡 Currently learning: F#, C++, Python, and secure web practices
+- Java | JavaFX | SQL | FXML | HTML | Python | Data Structures | GUI Design  
+- 💡 Currently learning: F#, C++, Python, PHP and secure web practices
 
 ---
 
