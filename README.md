@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Anthony Costa
 
-🎓 I'm a Computer Science major passionate about building meaningful and cool solutions to real-world problems through software.  
+🎓 I'm a Computer Science graduate passionate about building meaningful and cool solutions to real-world problems through software.  
 💻 I enjoy working with Java, JavaFX, MySQL, HTML/PHP, and diving into backend development and data structures.
 
 ---
