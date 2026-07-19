@@ -19,7 +19,7 @@ Check out my personal website to learn more about me and see more of my work:
 ---
 
 ### 🔧 Skills
-- Java | JavaFX | SQL | FXML | HTML | Python | Data Structures | GUI Design  
+- Java | JavaFX | SQL | FXML | HTML | Python | CSS | Data Structures | GUI Design  
 - 💡 Currently learning: C++, Python, React, PHP, and secure web practices
 
 ---
